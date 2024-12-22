@@ -1,4 +1,4 @@
-.class-1
+.class-1,
 .class-2
 {
     background-color: rgb(199,78,110);
@@ -19,6 +19,6 @@
 #ID-2
 {
     background-color: rgb(101, 199, 103);
-    font-size: 36px;
+    font-size: 24px;
     font-weight: 800;
 }
